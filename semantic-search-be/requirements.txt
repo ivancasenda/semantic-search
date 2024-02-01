@@ -1,0 +1,6 @@
+fastapi==0.101.1
+uvicorn[standard]==0.23.2
+redis[hiredis]==5.0.0
+google-cloud-aiplatform==1.32.0
+google-cloud-logging==3.6.0
+debugpy==1.6.7

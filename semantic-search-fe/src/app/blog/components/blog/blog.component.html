@@ -1,0 +1,313 @@
+<!-- Title -->
+<div
+  class="max-w-3xl px-4 pt-16 lg:pt-32 sm:px-6 pb-7 sm:pb-10 lg:px-8 mx-auto"
+>
+  <!-- Announcement Button -->
+  <a
+    class="absolute top-0 right-0 m-3 mr-16 group inline-block bg-blue-800/[.05] dark:bg-white/[.05] hover:bg-green-500/[.1] dark:hover:bg-white/[.1] border border-green-500/[.05] dark:border-white/[.05] p-1 pl-4 rounded-full shadow-md dark:shadow-white/[.05]"
+    href=""
+  >
+    <p class="mr-2 inline-block text-blue-500 dark:text-blue-400 text-sm">
+      Live Demo
+    </p>
+    <span
+      class="group-hover:bg-green-500/[.1] dark:group-hover:bg-white/[.1] py-2 px-3 inline-flex justify-center items-center gap-x-2 rounded-full bg-green-500/[.075] dark:bg-white/[.075] font-semibold text-blue-400 text-sm"
+    >
+      <svg
+        class="w-2.5 h-2.5"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
+        fill="none"
+      >
+        <path
+          d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+        />
+      </svg>
+    </span>
+  </a>
+  <!-- End Announcement Button -->
+
+  <div class="max-w-2xl">
+    <!-- Content -->
+    <div class="space-y-5 md:space-y-8">
+      <h1 class="text-3xl sm:text-5xl font-bold text-gray-800 dark:text-white">
+        Semantic Search:<br />Sentence Transformers<br />+ Vector Database
+      </h1>
+      <div>
+        <a
+          class="m-1 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-gray-100 text-gray-800 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-gray-200"
+          href="/blog"
+        >
+          Google Cloud Platform
+        </a>
+        <a
+          class="m-1 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-gray-100 text-gray-800 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-gray-200"
+          href="/blog"
+        >
+          Machine Learning
+        </a>
+        <a
+          class="m-1 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-gray-100 text-gray-800 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-gray-200"
+          href="/blog"
+        >
+          Web Application
+        </a>
+        <a
+          class="m-1 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-gray-100 text-gray-800 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-gray-200"
+          href="/blog"
+        >
+          Search
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Title -->
+
+<figure class="flex flex-col items-center">
+  <img
+    class="w-fit lg:max-w-5xl object-cover rounded-xl"
+    src="assets/illustration.png"
+    alt="Illustration"
+  />
+</figure>
+
+<!-- Blog Article -->
+<div class="max-w-3xl px-4 pt-7 lg:pt-12 pb-12 sm:px-6 lg:px-8 mx-auto">
+  <div class="max-w-2xl">
+    <!-- Content -->
+    <div class="space-y-5 md:space-y-8">
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        Search has become ubiquitous in our digital age, as it is a fundamental
+        and pervasive tool for retrieving and navigating information in various
+        online environments. Search engines like Google have become an integral
+        part of daily life, and search functionality is embedded in websites,
+        apps, and platforms across a wide range of industries, from e-commerce
+        and social media to academic research and professional tools. A crucial
+        factor that affects user search experience is the relevance of the
+        search results. One effective method to improve search relevance is by
+        utilizing semantic search techniques. Semantic search goes beyond
+        surface keywords, focusing on deciphering the underlying intent and
+        contextual significance of a search query to provide results that
+        closely align with the user's needs.
+      </p>
+      <h2 class="text-2xl font-bold md:text-3xl dark:text-white">Approach</h2>
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        There are many approaches to implementing semantic search. One powerful
+        technique is to employ a Machine Learning model to generate embeddings
+        or vector representations of textual data. These embeddings capture the
+        semantic meaning of words and phrases, allowing search systems to
+        understand the context and relationships between them.
+      </p>
+
+      <figure>
+        <img
+          class="w-full object-cover rounded-xl"
+          src="https://miro.medium.com/v2/resize:fit:2000/1*SYiW1MUZul1NvL1kc1RxwQ.png"
+          alt="Image Description"
+        />
+        <figcaption class="mt-3 text-sm text-center text-gray-500">
+          Embeddings Ilustration
+        </figcaption>
+      </figure>
+
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        The machine learning model that we will be using is
+        <a
+          class="text-blue-600 decoration-2 hover:underline font-medium"
+          href="#"
+          >multi-qa-MiniLM-L6-dot-v1</a
+        >
+        from
+        <a
+          class="text-blue-600 decoration-2 hover:underline font-medium"
+          href="#"
+          >SentenceTransformers</a
+        >, It maps sentences & paragraphs to a 384 dimensional dense vector
+        space (embedding) and was designed for semantic search. It has been
+        trained on 215M (question, answer) pairs from diverse sources. We will
+        use this model to generate the embeddings for user search query and for
+        our text datasets.
+      </p>
+
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        After generating the embeddings, the next step is to identify the
+        closest matches from the user query embedding to our dataset embeddings.
+        To accomplish this efficiently and on a large scale, we will be
+        leveraging the capabilities of Vertex AI Vector Search. This is a
+        similarity search solution that is fully managed, highly scalable, and
+        boasts low latency. It is specifically designed to compress and index
+        vector representations of the data set, which enables rapid approximate
+        distance computation (vector database).
+      </p>
+
+      <h2 class="text-2xl font-bold md:text-3xl dark:text-white">
+        Implementation
+      </h2>
+
+      <figure>
+        <img
+          class="w-full object-cover rounded-xl"
+          src="assets/architecture.png"
+          alt="Architecture Diagram"
+        />
+        <figcaption class="mt-3 text-sm text-center text-gray-500">
+          Architecture Diagram
+        </figcaption>
+      </figure>
+
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        The diagram above illustrates the step-by-step process a user follows
+        when visiting the site:
+      </p>
+      <ul class="text-lg text-gray-800 dark:text-gray-200 px-5">
+        <li class="list-decimal">
+          <span class="font-bold">User Visit:</span> When a user first arrives
+          at the site, the Angular application is delivered to them through the
+          Firebase Content Delivery Network (CDN).
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">Search Query:</span> After the user enters a
+          search query, the application sends a request to the FastAPI service
+          backend hosted on Cloud Run.
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">VPC Connector:</span> The Cloud Run Service is
+          securely connected to the Virtual Private Cloud (VPC) network using a
+          VPC Connector.
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">Embedding Generation:</span> The service
+          processes the user's search query by transforming it into an embedding
+          using the Sentence Transformers model, which is hosted on Vertex AI
+          Predictions.
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">Nearest Neighbor Search:</span> The generated
+          embedding is then passed to the Vertex AI Matching Engine, which
+          identifies the nearest neighbors based on the embedding similarity
+          (dot product).
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">Neighbor ID Retrieval:</span> The Matching
+          Engine returns the IDs of the nearest neighbors, which are used to
+          retrieve relevant posts. To efficiently retrieve the posts associated
+          with the neighbor IDs, the system queries a Redis instance hosted on
+          Cloud Memorystore. Redis offers lightning-fast access to relevant
+          data, while ensuring high performance and scalability.
+        </li>
+      </ul>
+
+      <h2 class="text-2xl font-bold md:text-3xl dark:text-white">Pipeline</h2>
+
+      <figure>
+        <img
+          class="w-full object-cover rounded-xl"
+          src="assets/pipeline.png"
+          alt="Pipeline Diagram"
+        />
+        <figcaption class="mt-3 text-sm text-center text-gray-500">
+          Pipeline Diagram
+        </figcaption>
+      </figure>
+
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        The diagram above visually represents the entire pipeline, illustrating
+        the process from data ingestion to updating the vector index. This
+        pipeline is constructed using
+        <a class="text-blue-500" href="https://www.tensorflow.org/tfx"
+          >TFX (TensorFlow Extended)</a
+        >, a platform for building end-to-end machine learning pipelines, and
+        orchestrated with Google Cloud Vertex Pipelines.
+      </p>
+      <ul class="text-lg text-gray-800 dark:text-gray-200 px-5">
+        <li class="list-decimal">
+          <span class="font-bold">BigQueryExampleGen:</span> As part of our
+          project, we are utilizing a publicly available Stack Overflow dataset
+          that is stored in BigQuery. To incorporate this data into our
+          pipeline, we are using the BigQueryExampleGen component. This
+          component is responsible for retrieving data from BigQuery and
+          forwarding it to the pipeline. Additionally, it deligates its job to
+          Dataflow to enable us to execute Apache Beam pipelines effectively in
+          a fully distributed manner.
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">ImportModel:</span> The ImportModel component
+          role is to retrieve a Tensorflow saved model from Google Cloud Storage
+          and make it available for use by other components within the pipeline.
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">VertexAIBulkInferrer: </span>The
+          VertexAIBulkInferrer is a custom TFX components, the component is used
+          to perform batch inference, its utilizing Vertex AI Predictions to
+          host the model and Dataflow to perform remote predictions on hosted
+          model.
+        </li>
+        <li class="list-decimal">
+          <span class="font-bold">MatchingEngineIndexer:</span> Finally, the
+          MatchingEngineIndexer custom TFX component structure and formats the
+          embeddings from the inference result to meet the requirements of
+          Vertex AI Matching Engine and updates The Matching Engine Index.
+        </li>
+      </ul>
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        To ensure that our search results are always up to date with the latest
+        data, we want to periodically run the pipeline with Cloud Scheduler.
+        When the scheduled Cloud Scheduler publishes a topic to Cloud Pub/Sub, a
+        Cloud Function subscribed to the topic will trigger a pipeline run. This
+        will allow us to keep our search results current with minimal manual
+        intervention.
+      </p>
+
+      <h2 class="text-2xl font-bold md:text-3xl dark:text-white">Conclusion</h2>
+      <p class="text-lg text-gray-800 dark:text-gray-200">
+        The evolution of search in our digital age has not only transformed the
+        way we access information but has also become an integral part of our
+        daily lives. The pursuit of relevance in search results has led to the
+        development of sophisticated semantic search techniques that delve deep
+        into user intent and context. By harnessing the power of Machine
+        Learning, as exemplified by models like multi-qa-MiniLM-L6-dot-v1, and
+        deploying efficient architectures and pipelines, we have unlocked the
+        potential for search systems to provide more meaningful and accurate
+        results. For a deeper dive into the implementation and deployment
+        specifics, please refer to the source code available below.
+      </p>
+    </div>
+    <!-- End Content -->
+    <div class="">
+      <!-- Announcement Button -->
+      <a
+        class="mt-3 group inline-block bg-blue-800/[.05] dark:bg-white/[.05] hover:bg-green-500/[.1] dark:hover:bg-white/[.1] border border-green-500/[.05] dark:border-white/[.05] p-1 pl-4 rounded-full shadow-md dark:shadow-white/[.05]"
+        href=""
+      >
+        <p class="mr-2 inline-block text-blue-500 dark:text-blue-400 text-sm">
+          Github
+        </p>
+        <span
+          class="group-hover:bg-green-500/[.1] dark:group-hover:bg-white/[.1] py-2 px-3 inline-flex justify-center items-center gap-x-2 rounded-full bg-green-500/[.075] dark:bg-white/[.075] font-semibold text-blue-400 text-sm"
+        >
+          <svg
+            class="w-2.5 h-2.5"
+            width="16"
+            height="16"
+            viewBox="0 0 16 16"
+            fill="none"
+          >
+            <path
+              d="M5.27921 2L10.9257 7.64645C11.1209 7.84171 11.1209 8.15829 10.9257 8.35355L5.27921 14"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
+          </svg>
+        </span>
+      </a>
+      <!-- End Announcement Button -->
+    </div>
+  </div>
+</div>
+<!-- End Blog Article -->
