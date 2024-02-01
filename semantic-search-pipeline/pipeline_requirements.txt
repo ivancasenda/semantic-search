@@ -1,0 +1,2 @@
+tensorflow_text==2.12.1
+python-snappy

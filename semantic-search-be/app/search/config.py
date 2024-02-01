@@ -1,0 +1,8 @@
+import os
+
+# Fetch environment variables for configuration
+VERTEX_AI_MODEL_ENDPOINT_RESOURCE = os.environ["VERTEX_AI_MODEL_ENDPOINT_RESOURCE"]
+VERTEX_AI_INDEX_ENDPOINT_RESOURCE = os.environ["VERTEX_AI_INDEX_ENDPOINT_RESOURCE"]
+DEPLOYED_INDEX_ID = os.environ["DEPLOYED_INDEX_ID"]
+REDIS_HOST = os.environ["REDIS_HOST"]
+REDIS_PORT = os.environ["REDIS_PORT"]

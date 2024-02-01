@@ -1,0 +1,9 @@
+tfx pipeline list --engine=vertex
+tfx pipeline compile --pipeline_path=kubeflow_runner.py --engine=vertex
+tfx pipeline create --pipeline_path=kubeflow_runner.py --engine=vertex --build_image
+tfx pipeline delete --pipeline_name=post-similarity-pipeline --engine=vertex
+tfx run create --pipeline_name=post-similarity-pipeline --project=post-similarity-393416 --region=asia-southeast1 --engine=vertex
+tfx run list --pipeline_name=post-similarity-pipeline --project=post-similarity-393416 --region=asia-southeast1 --engine=vertex
+tfx run status --pipeline_name=post-similarity-pipeline --run_id= --engine=vertex
+
+python -m grpc_tools.protoc -I . --python_out=. ./pipeline/components/vertex_ai_bulk_inferrer/public/proto/model_spec.proto

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "stackoverflow-semantic-search": {
+      "hosting": {
+        "semantic-search-fe": [
+          "stackoverflow-semantic-search"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "stackoverflow-semantic-search"
+  }
+}

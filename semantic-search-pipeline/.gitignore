@@ -1,0 +1,4 @@
+__pycache__
+tfx_metadata
+tfx_pipeline_output
+.vscode

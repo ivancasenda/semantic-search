@@ -1,0 +1,2001 @@
+[{
+  "question": "Why does String creation using `newInstance()` method behave different when using `var` compared to using explicit type `String`?"
+}, {
+  "question": "400% higher error with PyTorch compared with identical Keras model (with Adam optimizer)"
+}, {
+  "question": "Why do compilers now accept to call str() member on a returned std::ostream\u0026 from std::stringstream::operator\u003c\u003c()?"
+}, {
+  "question": "Why is this seemingly slower C loop actually twice as fast as the other way?"
+}, {
+  "question": "Combine multiple columns into one category column using the column names as value label"
+}, {
+  "question": "Set the leading zero bits in any size integer C++"
+}, {
+  "question": "The git (or python) command requires the command line developer tools"
+}, {
+  "question": "How do applications determine if instruction set is available and use it in case it is?"
+}, {
+  "question": "How to swap the column and row entries in R"
+}, {
+  "question": "How can I implement polymorphism in C++ for a wrapper class that will hold one of several types?"
+}, {
+  "question": "Win32: Is there an equivalent to POSIX sem_init?"
+}, {
+  "question": "AWK print all regex matches on every line"
+}, {
+  "question": "\u0027sed: illegal option -- r usage\u0027 error in Visual Studio Code"
+}, {
+  "question": "Android Studio Dolphin | 2021.3.1 does not show layout preview"
+}, {
+  "question": "Unexpected printf output"
+}, {
+  "question": "Non type template parameter of type std::string\u0026 compiles in gcc but not in clang"
+}, {
+  "question": "How to get accurate process CPU and memory usage with python?"
+}, {
+  "question": "How to Fix : GPG error: https://cli.github.com/packages stable InRelease: EXPKEYSIG C99B11DEB97541F0"
+}, {
+  "question": "Why doesn\u0027t TypeScript complain about an incorrect return type?"
+}, {
+  "question": "Cannot use consteval functions inside initializer list on MSVC"
+}, {
+  "question": "Chrome DevTools for Node.js not loading source maps"
+}, {
+  "question": "Why does adding a decimal point to an input clear the input?"
+}, {
+  "question": "xcode-select cannot locate clang, even after installing command line tools"
+}, {
+  "question": "Sum of only couple of indexes of lists in a dictionary"
+}, {
+  "question": "I am no longer able to see logs and health tabs in Firebase Cloud Functions consle"
+}, {
+  "question": "Best non-trigonometric floating point approximation of tanh(x) in 10 instructions or less"
+}, {
+  "question": "Any more concise `data.table` way to unnest a nested column in data.table?"
+}, {
+  "question": "iOS 16 Scene orientation issue"
+}, {
+  "question": "Command Line stable diffusion runs out of GPU memory but GUI version doesn\u0027t"
+}, {
+  "question": "How to actually use already-installed versions of a package, or find out why it\u0027s not possible?"
+}, {
+  "question": "How can I terminate a loop started in a BEGIN block?"
+}, {
+  "question": "The withRouter wrapper for React Router v6 correctly typed without any"
+}, {
+  "question": "How to calculate and store results based upon the Matching Rows of two different Pandas Dataframes in Python"
+}, {
+  "question": "How to write a custom deleter that works with multiple inheritance?"
+}, {
+  "question": "Why does `BUILD` not see attribute from parent class?"
+}, {
+  "question": "Plotting a fancy diagonal correlation matrix in python with coefficients in upper triangle"
+}, {
+  "question": "How can I get the specific character in string except the last one in Python?"
+}, {
+  "question": "Making a diagram map in r?"
+}, {
+  "question": "Writing style to prevent string concatenation in a list of strings"
+}, {
+  "question": "Temporary objects that are usable in constant expressions"
+}, {
+  "question": "Test that an API call does NOT happen in Cypress"
+}, {
+  "question": "mongo: command not found on mongodb 6.0 docker container"
+}, {
+  "question": "Xamarin Deploy on iPhone not working with Xcode 14"
+}, {
+  "question": "Are preprocessor directives allowed in a function-like macro\u0027s argument?"
+}, {
+  "question": "break a loop then not run next code if loop breaks"
+}, {
+  "question": "Calculate cumulative mean row-wise on groups of columns with a common names pattern"
+}, {
+  "question": "Flutter IOS build error - \"select a development team in the Signing \u0026 Capabilities editor.\""
+}, {
+  "question": "How to detect dynamic-island size and changes in SwiftUI \u0026 UIKit"
+}, {
+  "question": "Suggestions on solving locking problem with ARM 7 CCL Lisp compiler, raspberry Pi?"
+}, {
+  "question": "Error when trying to suggest changes in a GitHub pull request"
+}, {
+  "question": "TypeScript compiler doesn\u0027t complain if a getter is not implemented on a class that inherit a mixin abstract class"
+}, {
+  "question": "Randomly slow performance of PrintWindow / WM__PRINT on Windows 11"
+}, {
+  "question": "Why does a temporary variable in Python change how this Pass-By-Sharing variable behaves?"
+}, {
+  "question": "How to achieve \"resumption semantics\" for Python exceptions?"
+}, {
+  "question": "Managed Identity in B2B scenario across different subscription?"
+}, {
+  "question": "How to download a file from a private repository using curl?"
+}, {
+  "question": "SQLAlchemy How to create a composite index between a polymorphic class and it\u0027s subclass"
+}, {
+  "question": "Android Studio xml preview issue failed to initialize editor"
+}, {
+  "question": "Calculate Frequency and normal distribution curve co-ordinates (X \u0026 Y)"
+}, {
+  "question": "Why SFINAE has different behavior with gcc \u003c11 vs \u003e12?"
+}, {
+  "question": "Find structs that implement a given set of traits"
+}, {
+  "question": "Improve the implementation of worldquant 101 alpha factors using numpy"
+}, {
+  "question": "Android Studio Error \"requires libraries and applications that depend on it to compile against version 33 or later of the Android APIs.\""
+}, {
+  "question": "How to return to a nested route when switching between tabs with ShellRoute and GoRouter 5.0?"
+}, {
+  "question": "Locale.forLanguageTag() vs new Locale()"
+}, {
+  "question": "Modifying contents of a const std::vector\u003cT\u003e w/o UB"
+}, {
+  "question": "Why are member functions returning non-static data members not core constant expressions?"
+}, {
+  "question": "Application got crashed : request permission after upgrading app to compileSdkVersion 33/ Android 13"
+}, {
+  "question": "Connecting a C++ program to a Python script with shared memory"
+}, {
+  "question": "Reuse steps in docker build image. Cache?"
+}, {
+  "question": "How to download a zip file from github repo and read her content in memory?"
+}, {
+  "question": "Why does LambdaMetafactory fail when using a custom functional interface (but Function works fine)?"
+}, {
+  "question": "Select columns from a highly nested data"
+}, {
+  "question": "How to display alert dialog box on back button of browser or onReload the page using Go Router in flutter web?"
+}, {
+  "question": "How to perform a switch statement on a generic type in C#?"
+}, {
+  "question": "Why doesn\u0027t my Haskell function support infinite lists?"
+}, {
+  "question": "C++ Assign a variable to function call that could return void"
+}, {
+  "question": "IOT tcp connection error with nodejs and net"
+}, {
+  "question": "Why doesn\u0027t type narrowing with double negation work in typescript?"
+}, {
+  "question": "NativeCall to Windows API function RegEnumKeyExW resulting in inconsistent and incomplete output"
+}, {
+  "question": "Large size of HashSet throwing StackOverflow Error"
+}, {
+  "question": "How should I structure a Rust project for solving small coding challenges?"
+}, {
+  "question": "Need help understanding javadoc for ZonedDateTime::plusDays"
+}, {
+  "question": "Removing copy ctor of 3rd party class"
+}, {
+  "question": "Is there a way to remove the last template parameter of variadic template methods?"
+}, {
+  "question": "Inconsistent behavior of map function with Empty value in Supply and plain Array?"
+}, {
+  "question": "Predicate function to check that values across \u003e3 columns are all equal"
+}, {
+  "question": "Thread not awake when timed wait elapsed in java"
+}, {
+  "question": "Matplotlib doesn\u0027t plot in macos"
+}, {
+  "question": "How to encrypt a string using OpenSSL C library and a public key file?"
+}, {
+  "question": "Alarmmanager not working when I closed the app from recent apps"
+}, {
+  "question": "Does the default argument for a function parameter is considered as an initializer for that parameter?"
+}, {
+  "question": "Energy consumption per x86 instruction?"
+}, {
+  "question": "Why does the bit-width of the mantissa of a floating point represent twice as many numbers compared to an int?"
+}, {
+  "question": "Google Sign In (GSI) after 10 seconds throws a 401"
+}, {
+  "question": "What is \"prolog style\" in Scala?"
+}, {
+  "question": "Combinations of varying number of elements from two vectors"
+}, {
+  "question": "Reduce timeseries array and aggregate data"
+}, {
+  "question": "(NextAuth) Type error: Property \u0027session\u0027 does not exist on type \u0027{}\u0027"
+}, {
+  "question": "Is it possible to pass a Literal type to a function and have that function output a value of that Literal type?"
+}, {
+  "question": "Why are there so many certificates in a Kubernetes cluster?"
+}, {
+  "question": "Can we use Plotly Express to plot zip codes?"
+}, {
+  "question": "Conditionally syncing data from one SQL instance to another instance"
+}, {
+  "question": "Which specific characters does the strip function remove?"
+}, {
+  "question": "matplotlib put legend side-by-side"
+}, {
+  "question": "Getting a window\u0027s pixel format on GLFW in linux"
+}, {
+  "question": "Unnesting event parameters in JSON format within a Pandas dataframe"
+}, {
+  "question": "Implicit conversion of initializer lists and perfect forwarding"
+}, {
+  "question": ".Maui Static Web Asset Build issue"
+}, {
+  "question": "Impossible to have two menu on the same screen"
+}, {
+  "question": "How to deal with text input changes in SSR text box before hydration is complete?"
+}, {
+  "question": "FMX: TCanvas.DrawLine issue on Android"
+}, {
+  "question": "Constrain return type to be type captured by role parameter"
+}, {
+  "question": "How does Rust call a \u0026dyn Fn?"
+}, {
+  "question": "Is there a way in R to write out (a or b) \u003d\u003d (c or d) in R?"
+}, {
+  "question": "Why is the destructor of a function parameter not called at the end of the function, but at the end of the full expression making the function call?"
+}, {
+  "question": "Why does a BASH arithmetic expression error cause infinite while loops to break?"
+}, {
+  "question": "Syntax for using datatype indexed by Nat"
+}, {
+  "question": "Number of palindromes of length 5"
+}, {
+  "question": "Is there a way for force gcc to free the space from the stack when variables go out of scope"
+}, {
+  "question": "Generate Permutation With Minimum Guaranteed Distance from Elements in Source"
+}, {
+  "question": "Transfer file takes too much time"
+}, {
+  "question": "What does +Counter do in python?"
+}, {
+  "question": "How to use ST Monad with monad transformers"
+}, {
+  "question": "Scaffolding failed. Could not load information for project"
+}, {
+  "question": "flutter in_app_pruchase - consumables Billing library version 4.0+ is required"
+}, {
+  "question": "How do I submit form data after another hook is set?"
+}, {
+  "question": "Why the grad is unavailable for the tensor in gpu"
+}, {
+  "question": "React keys for non-list elements?"
+}, {
+  "question": "How to understand Haskell typeclass definitions with \"| m -\u003e s\" and the like"
+}, {
+  "question": "Why bash Substring Expansion doesn\u0027t respect IFS when using Heredoc"
+}, {
+  "question": "Is there a difference between Pin\u003cBox\u003cT\u003e\u003e and Box\u003cPin\u003cT\u003e\u003e?"
+}, {
+  "question": "Unable to define type for tuple: Target requires 2 element(s) but source may have fewer"
+}, {
+  "question": "Django How To annotate/Group by \u0026 Display it in Serializer"
+}, {
+  "question": "Visual Studio Code. why are the window control buttons over the menu bar on the left side?"
+}, {
+  "question": "Preprocessor for haskell source: is cpp the only option?"
+}, {
+  "question": "pixel/sandbox simulator optimizations"
+}, {
+  "question": "Pass data variable as argument in style section of vue2"
+}, {
+  "question": "Regarding Contains and Equals in C#"
+}, {
+  "question": "Android ViewModel Coroutines launch Test not waiting"
+}, {
+  "question": "How to prevent std::function to bool conversion in c++ function overloading?"
+}, {
+  "question": "Optimizing p5.js project / sandbox/pixel simulator"
+}, {
+  "question": "Show the name of month in datepicker"
+}, {
+  "question": "Toolbar bottom iOS 16 - SwiftUI"
+}, {
+  "question": "Flutter Google Maps how to show active areas with border"
+}, {
+  "question": "combining split with findall"
+}, {
+  "question": "How to enable developer mode in iOS 16.0?"
+}, {
+  "question": "How would I group, summarize and filter a DF in pandas in dplyr-fashion?"
+}, {
+  "question": "Creating a Proper Semi Circular Slider Widget in Flutter"
+}, {
+  "question": "Why does CPU\u003d8 in Intel Core i9-12900K have the fastest access to all other cores?"
+}, {
+  "question": "How to tell where an object value is undefined?"
+}, {
+  "question": "SwiftUI widget Text.DateStyle not working in iOS 16"
+}, {
+  "question": "These concepts about Functors (Maps) and Monads (Either, Maybe, Bind, Then) are right?"
+}, {
+  "question": "Jenkins cannot recognize sh.exe although added to path"
+}, {
+  "question": "Unable to write files in a GCP bucket using gcsfuse"
+}, {
+  "question": "How to create a new composable function in Android Studio?"
+}, {
+  "question": "Haskell `$` in F# possible?"
+}, {
+  "question": "How to migrate Watch app to SwiftUI Lifecycle"
+}, {
+  "question": "How to implemented a function returning with TypeMap return"
+}, {
+  "question": "Error in Downloading Files from Django app in Production with Gunicorn \u0026 Nginx"
+}, {
+  "question": "asyncio: works in Python 3.10 but not in Python 3.8"
+}, {
+  "question": "Masking layer vs attention_mask parameter in MultiHeadAttention"
+}, {
+  "question": "can\u0027t change css from free downloaded template in a custom css file - no effect why is this?"
+}, {
+  "question": "Getting 【ValueError: Input contains NaN 】 when using package pmdarima"
+}, {
+  "question": "How UI test Jetpack Compose using Firebase Test Lab?"
+}, {
+  "question": "FabricJS convert json to png"
+}, {
+  "question": "How to generate a certain number of random whole numbers that add up to a certain number and are at least a certain number or more?"
+}, {
+  "question": "Are the return values of List.copyOf(), Set.copyOf(), Map.copyOf() thread-safe?"
+}, {
+  "question": "Dataset.batch doesn\u0027t work as expected with a zipped dataset"
+}, {
+  "question": "Master-Master replication broken with \"Duplicate entry for key \u0027PRIMARY\u0027\" due to AUTOINCREMENT"
+}, {
+  "question": "Throwing exception from a function parameter"
+}, {
+  "question": "What is the \"j\" expression for the \"maximum consecutive ones\" problem?"
+}, {
+  "question": "Efficient ways to aggregate and replicate values in a numpy matrix"
+}, {
+  "question": "CYPRESS REMIX Error: Webpack Compilation Error ./node_modules/@testing-library/dom/dist/@testing-library/dom.esm.js Module parse failed: Unexpected"
+}, {
+  "question": "How to get a warning about a list being a mutable default argument?"
+}, {
+  "question": "Typescript never vs [never]"
+}, {
+  "question": "Image lazy loading strategy; what problems may I encounter?"
+}, {
+  "question": "GCP Python - Delete Project Labels"
+}, {
+  "question": "Row-wise Cumulative Mean Across Grouped Columns using Pandas"
+}, {
+  "question": "Error being thrown when trying to debug from JetBrains Rider: error HE0004: Could not load the framework \u0027DVTITunesSoftwareServiceFoundation\u0027"
+}, {
+  "question": "In plotly, is it possible to have an action where a user clicks and sees a different time range in the chart?"
+}, {
+  "question": "Time complexity of a specific function in python"
+}, {
+  "question": "Python equality statement of the form a\u003d\u003db in [c,d,e]"
+}, {
+  "question": "Transpose large numpy matrix on disk"
+}, {
+  "question": "why is data from tf-agents buffer in random order"
+}, {
+  "question": "Nested Loop Optimisation in Python for a list of 50K items"
+}, {
+  "question": "Why can\u0027t I check for a r-value-reference with a requires-constraint?"
+}, {
+  "question": "How to do close join in Julia DataFrames?"
+}, {
+  "question": "Typescript generics unlimited nested object"
+}, {
+  "question": "iOS 16 Autorotation failure"
+}, {
+  "question": "How to prevent the keyboard from closing when typing in a UITextField embedded in a UICollectionView header cell using Swift?"
+}, {
+  "question": "how to make the user have the correct input type in c"
+}, {
+  "question": "Collection of LogContext Properties"
+}, {
+  "question": "Run and Debug unit tests with flags"
+}, {
+  "question": "Wondering why this while loop isn\u0027t stopping"
+}, {
+  "question": "Is the a way to condense this into a FOR function, each button obviously has to match the number output"
+}, {
+  "question": "Direct initialization with prvalue: Bug in MSVC?"
+}, {
+  "question": "Using scalar variables to refer to an array inside an explicit generator"
+}, {
+  "question": "Apply math operation dynamically between two nn.Modules or loss functions"
+}, {
+  "question": "Function with parameters but no arguments"
+}, {
+  "question": "Filling GA4 dimensions retroactively based on page"
+}, {
+  "question": "In C, why is dereferenced array pointer identical to the pointer itself?"
+}, {
+  "question": "SDL2 at the end of resizing event"
+}, {
+  "question": "C++ \u0026-Operator Overload - Addressable R-Value Syntax-Cheat"
+}, {
+  "question": "Golang template can\u0027t access file in embedFS"
+}, {
+  "question": "Using short string optimization appears to be slower than allocations in gcc 9.4.0"
+}, {
+  "question": "Have to make a customized dataframe from a dict with multiple values"
+}, {
+  "question": "RTK Query, manage spinner on a row of a table after an invalidate tag triggered by a mutation"
+}, {
+  "question": "Why can\u0027t I have two method signatures with the only difference being the \"params\" keyword for the array parameter?"
+}, {
+  "question": "R - vectorizing first value of an array that is greater of some threshold"
+}, {
+  "question": "Window background visible through textures"
+}, {
+  "question": "GitHub workflow fails to run when code is pushed into branch"
+}, {
+  "question": "Is it valid/recommended to use string literals as the result of an expression using the ternary operator?"
+}, {
+  "question": "Is there a better way to split a container of a non-movable type based on a predicate"
+}, {
+  "question": "How to iterate through JSON to print in a formatted way"
+}, {
+  "question": "Java HashMap that takes to much of the memory"
+}, {
+  "question": "How to efficiently pass a string to a function if I will certainly copy it? C++20"
+}, {
+  "question": "Why is the use of `Span\u003cT\u003e` more expensive than plain array?"
+}, {
+  "question": "Web scraping results from the same web page are entirely different after 1 day"
+}, {
+  "question": "Apply dictionary to column with multiple values"
+}, {
+  "question": "Full size AccessoryWidgetBackground() in accessoryRectangular family"
+}, {
+  "question": "How to handle the Maybe output of a function?"
+}, {
+  "question": "Empty Feign configuration is not extended"
+}, {
+  "question": "when can xvalues become lvalues?"
+}, {
+  "question": "how is this algorithm counting all the unique integers?"
+}, {
+  "question": "What is the difference between `filter(func)` and `filter(|x| func(x))`?"
+}, {
+  "question": "Why can\u0027t I cast a generic to another generic? (Class type constraints) C#"
+}, {
+  "question": "Why std::vectors is not destroyed from the stack as array?"
+}, {
+  "question": "Regex to match the first occurance starting from the end of the string"
+}, {
+  "question": "Can not resolve postgres hostname from other service on docker-compose"
+}, {
+  "question": "How to get browser ID or any unique ID from browser which acts as device ID in laravel/JS?"
+}, {
+  "question": "Encountered a StorageException while trying to fetch the diagnostic events"
+}, {
+  "question": "Permutating all possible combinations while staying sorted?"
+}, {
+  "question": "\"Scaffolding failed. Could not load information for project...\" in .NET 6 Web API"
+}, {
+  "question": "Reduce page display flickering when using many flexbox, image icons, fonts"
+}, {
+  "question": "iOS16+ Present UIViewController in landscape only for single screen not working [Swift 5.7]"
+}, {
+  "question": "Git push -f is being rejected for unprotected branches"
+}, {
+  "question": "AppSync / Apollo - Subscription - Update nested array within a model"
+}, {
+  "question": "Rendering many connected quarto documents"
+}, {
+  "question": "Dio interceptor for refreshing access token"
+}, {
+  "question": "Vue 3 \"Uncaught ReferenceError: {varName} is not defined\" only if a build the app"
+}, {
+  "question": "How to multiply two arrays at specific indexes?"
+}, {
+  "question": "IF condition evaluation in AFTER TRIGGER function on PostgreSQL"
+}, {
+  "question": "How to accept string input only if it of certain length in C else ask user to input the string again"
+}, {
+  "question": "Can the size limit of the old-style history.m be modified in -nodesktop mode?"
+}, {
+  "question": "Is there way to trap QCMDEXC error in an RPG program other than using MONITOR"
+}, {
+  "question": "How to use equational reasoning to reduce this expression"
+}, {
+  "question": "Why do these printf statements cause a stack overflow?"
+}, {
+  "question": "how do i replace chunks of a character with a single character"
+}, {
+  "question": "Natural Sort Alpha-numeric like Windows Explorer in C#"
+}, {
+  "question": "Why do I have to wrap a closure with ()?"
+}, {
+  "question": "Pytorch silent data corruption"
+}, {
+  "question": "tailwindcss config with django"
+}, {
+  "question": "Open simulator xcode 14 by Rosetta to fix scroll"
+}, {
+  "question": "C# compiler guessing data type wrong"
+}, {
+  "question": "Why can a variable be formatted, but not an element of an array when using the println macro?"
+}, {
+  "question": "Moving text, side by side after n number of lines"
+}, {
+  "question": "How can I switch XML styles dynamically in Android?"
+}, {
+  "question": "How can I use multiple Check functions in the [Registry] section?"
+}, {
+  "question": "How to separate format specifiers from characters with printf"
+}, {
+  "question": "Docker Replicas while debugging with Visual Studio not working as expected"
+}, {
+  "question": "Ccolumn values match values in a list"
+}, {
+  "question": "How to require positional arguments when using decorators?"
+}, {
+  "question": "What determines CRAN binary compatibility?"
+}, {
+  "question": "schema prefixes in postgres , scope of called elements"
+}, {
+  "question": "gcp pubsub-lite subscription python \"A second subscriber connected with the same SubscriberId and topic partition\" error"
+}, {
+  "question": "Replace values in dataframe based on other dataframe with column name and value"
+}, {
+  "question": "Traversing all nodes in selected range"
+}, {
+  "question": "How can I force a line break in rmarkdown\u0027s title for beamer output?"
+}, {
+  "question": "How to extract elements from vector using another vector with non unique values?"
+}, {
+  "question": "Python ast Libary - how to retreive value of a specific node"
+}, {
+  "question": "Checking an optional generic parameter for undefined results in T \u0026 ({} | null)"
+}, {
+  "question": "Efficient way of merging and grouping columns in dataframe to create summary column"
+}, {
+  "question": "Why this expression is not constant expression"
+}, {
+  "question": "window.location.href doesn\u0027t redirect unless document.write"
+}, {
+  "question": "What does it mean to have a transient state or a transient phase in an Ising model?"
+}, {
+  "question": "How to convert date format to UTC in Scala?"
+}, {
+  "question": "IPv6 socket: AddMembership drops the multicast group instead"
+}, {
+  "question": "Conditionally initialize an array"
+}, {
+  "question": "compare each row with each column in matrix using only pure python"
+}, {
+  "question": "Stack a dataframe on itself multiple times in R?"
+}, {
+  "question": "GitHub action setup-r-dependencies fails stating there is no package called \u0027digest\u0027"
+}, {
+  "question": "Should modifying an inline member function cause recompiling the whole class?"
+}, {
+  "question": "Can we define generic types in TypeScript for type predicate functions?"
+}, {
+  "question": "Explanation for \"Cannot access \u0027x\u0027 in \u0027y\u0027 in multi catch clause when build with Maven"
+}, {
+  "question": "typescript can\u0027t resolve typing from graphql query that returns a union type"
+}, {
+  "question": "Why does using the \"camelcase-keys\" package cause a Firebase \"initializeApp()\" error?"
+}, {
+  "question": "Why int[] cannot be converted to T*\u0026?"
+}, {
+  "question": "listop operator causing infinite recursion, any way to fix?"
+}, {
+  "question": "Migration script fails with IllegalStateException due to SHADOW_TABLE_NAME_SUFFIXES"
+}, {
+  "question": "The operation couldn’t be completed. (AppThinning.StubError error 1.)"
+}, {
+  "question": "Why does a very short time.Sleep take longer than the requested (about 300 ns) in benchmarks?"
+}, {
+  "question": "How To Write and Read JSON texts on single file"
+}, {
+  "question": "Co-Simulation: AnyLogic and Unreal Engine"
+}, {
+  "question": "How to search and select column names based on values?"
+}, {
+  "question": "Golang - How to turn an exponent and mantissa to a float64 or float32"
+}, {
+  "question": "How can I transform a mathematical expression into an easier-to-parse way, in Julia?"
+}, {
+  "question": "How to match pattern against multiple strings and store in data.frame in R"
+}, {
+  "question": "Why doesn\u0027t std::stringstream work with std::string_view?"
+}, {
+  "question": "extract string from multiple columns in new column"
+}, {
+  "question": "How to convert a vector including number and character into numeric vector in python?"
+}, {
+  "question": "Count events with a cool-down period after each instance"
+}, {
+  "question": "Why do annotations only show correctly on bar marks?"
+}, {
+  "question": "What is the best way to migrate delta tables created in spark streaming jobs to a new location?"
+}, {
+  "question": "how to add link in react tailwind?"
+}, {
+  "question": "React\u0027s Context API re-renders all components that are wrapped inside the Context"
+}, {
+  "question": "Why do my .d.ts interface extensions not work?"
+}, {
+  "question": "Pandas Join Two Dataframes According to Range and Date"
+}, {
+  "question": "How can I maintain the type invariant of a Range type where the lower bound is always less than or equal to the upper bound"
+}, {
+  "question": "Trying to reduce Big O complexity of compile-time format string parsing"
+}, {
+  "question": "What is more correct to use to centralize this case"
+}, {
+  "question": "How to extract a part of the string to another column"
+}, {
+  "question": "Why do I get these warnings when I run some npm react commands?"
+}, {
+  "question": "How can I create a CSS grid with alternating single and double rows?"
+}, {
+  "question": "Java regex inside text blocks"
+}, {
+  "question": "Why tee implementation closes STDIN and STDOUT at exiting?"
+}, {
+  "question": "How to distribute C++20 modules?"
+}, {
+  "question": "MRI ruby memory acccess characteristics during multithreading"
+}, {
+  "question": "Why is my arrow function returning `undefined`?"
+}, {
+  "question": "Is anything inside the string changed after binding operations?"
+}, {
+  "question": "Pandas: Dynamically deciede which column to update based on another column\u0027s value"
+}, {
+  "question": "Someone help me explain part of this for loop please"
+}, {
+  "question": "Make a customized filter on a grouped dataframe with multiple conditions"
+}, {
+  "question": "Installing .NET 7 preview breaks MAUI build"
+}, {
+  "question": "pandas: faster method than df.at[x,y]?"
+}, {
+  "question": "How to find the vectorized difference between two lists?"
+}, {
+  "question": "Spring batch step completing but Job not ending"
+}, {
+  "question": "React - Add data to a list"
+}, {
+  "question": "react recursive functional component update state"
+}, {
+  "question": "Point-free version of g(f(x)(y))"
+}, {
+  "question": "How do I convert a hierarchical dataframe to a list in R?"
+}, {
+  "question": "Why does the clang sanitizer think this left shift of an unsigned number is undefined?"
+}, {
+  "question": "React .NET - Display all active connections with SignalR"
+}, {
+  "question": "How are dynamically scoped variables implemented in Rakudo/MoarVM?"
+}, {
+  "question": "Apply function element wise to list of matrices"
+}, {
+  "question": "Why this simple expression is resulting in the wrong value"
+}, {
+  "question": "How do I tune my SQL update to improve performance?"
+}, {
+  "question": "Why is the implementation of IIf different in Visual Basic and FreeBasic?"
+}, {
+  "question": "Vertical Tabs in React, need to apply custom class on previously active tab"
+}, {
+  "question": "Xcode 14.0 - A PackageIndex.findPackages failed: featureDisabled warning"
+}, {
+  "question": "My react native project\u0027s release signed apk is not opening in the device and also it is creating in very small size"
+}, {
+  "question": "React.js each rows checking using condition rendering"
+}, {
+  "question": "How to do a recursive self-join in Foundry Contour?"
+}, {
+  "question": "Why do C++ std container iterators ignore some template parameters of their underlying container?"
+}, {
+  "question": "Why Can\u0027t I Construct a Singleton List of Symbol?"
+}, {
+  "question": "Melt a dataframe by different column names"
+}, {
+  "question": "What\u0027s the best PrefixStyle with ProtoBuf-net for big files?"
+}, {
+  "question": "DolphinDB: Create multiple in-memory tables with the same schemata"
+}, {
+  "question": "How to color a scatter plot of two vectors (x,y) according to a third vector (z)"
+}, {
+  "question": "TypeScript: How to refine a type where one of it\u0027s properties is probably null"
+}, {
+  "question": "Group by sum specific column in R"
+}, {
+  "question": "Same sizes on screen and on print?"
+}, {
+  "question": "Internationalization Architecture"
+}, {
+  "question": "CSS scroll snapping without restricting parent size"
+}, {
+  "question": "Use capabilities to open privileged ports without being root"
+}, {
+  "question": "Variable user selection"
+}, {
+  "question": "Replace value of variable directly inside f-string"
+}, {
+  "question": "React Native OneSignal Background Notification Issue in iOS"
+}, {
+  "question": "Use jq to get all parent keys of specific key"
+}, {
+  "question": "Can I customize a color with a name in MaterialTheme in Jetpack Compose?"
+}, {
+  "question": "Is there something like list comprehensions for collections.deque in Python 3?"
+}, {
+  "question": "CoreLocation location permission dialog not displayed when in split screen"
+}, {
+  "question": "How retain_grad() in pytorch works? I found its position changes the grad result"
+}, {
+  "question": "Python compile-time optimization"
+}, {
+  "question": "Why doesn\u0027t parameter type \"Dict[str, Union[str, int]]\" accept value of type \"Dict[str, str]\" (mypy)"
+}, {
+  "question": "How to match callable objects out of parameter pack to corresponding element in an array as argument?"
+}, {
+  "question": "Why does \"override val\" not exist in f#?"
+}, {
+  "question": "I\u0027m getting a TypeError. How do I fix it?"
+}, {
+  "question": "Flood-fill algorithm to define convex areas"
+}, {
+  "question": "Solving Sylvester equations in PyTorch"
+}, {
+  "question": "How to plot a time series with this dataframe?"
+}, {
+  "question": "flutter_inappwebview with iOS 16"
+}, {
+  "question": "Windows cmdlet for conditional out-file file creation"
+}, {
+  "question": "Rust - double mutable borrow in \u0027while let\u0027 statement"
+}, {
+  "question": "How to make MSVC generate assembly which caches memory in a register?"
+}, {
+  "question": "Referring to a C function pointer with or without \u0027\u0026\u0027?"
+}, {
+  "question": "Best Practice for OOP function with multiple possible control flows"
+}, {
+  "question": "Problem show video with kurento media server running in docker"
+}, {
+  "question": "What is the most efficient way to read and augment (copy samples and change some values) large dataset in .csv"
+}, {
+  "question": "Haskell get current time as ISO8601 string"
+}, {
+  "question": "Return specific property when accessing a Struct without referencing its name"
+}, {
+  "question": "Based on model multiselectfield show result in template django"
+}, {
+  "question": "Why does identical() return FALSE for what are obviously the same objects?"
+}, {
+  "question": "Why is 0 sometimes Numeric and sometimes not Numeric?"
+}, {
+  "question": "How to avoid implicit dependencies between Service class and Model class in PHP"
+}, {
+  "question": "Passing `skipna` argument to `agg`"
+}, {
+  "question": "Using python difflib to compare more than two files"
+}, {
+  "question": "When I press Docker button in Visual Studio Pro, what Docker command is running actually?"
+}, {
+  "question": "Set VBA Range Equal to Cell Value"
+}, {
+  "question": "Golang delve debuuger not working on windows 10"
+}, {
+  "question": "Python requests - GET/POST with data over SSL truncates the response"
+}, {
+  "question": "R separate numbers and characters in a string"
+}, {
+  "question": "Is there any way I could debug Python and C++ together?"
+}, {
+  "question": "How to replace strings separated by \"/\" for their match in another data.frame?"
+}, {
+  "question": "Making an atmosphere that can handle multiple suns?"
+}, {
+  "question": "XML View in Android Studio Dolphin not loading after update from Chipmunk"
+}, {
+  "question": "Embed operator $exists within the operator $map"
+}, {
+  "question": "Why does the toString() method of an array return an empty string when the array contains a RegExp?"
+}, {
+  "question": "How to return a PDF file from in-memory buffer using FastAPI?"
+}, {
+  "question": "Why does this websocket client enter an infinite loop at the end of main()?"
+}, {
+  "question": "Data Safety Form - How can as a Developer know which Data third party SDK collects and sends off?"
+}, {
+  "question": "Android Studio: Failed to initialize editor | Dolphin 2021.3.1"
+}, {
+  "question": "upgrade xcode14 error build: Dependency for P1:target-"
+}, {
+  "question": "Task :react-native-image-picker:compileDebugJavaWithJavac FAILED"
+}, {
+  "question": "eigen3 with libfmt \u003e\u003d 9.0"
+}, {
+  "question": "Casting a value based on a trigger in pandas"
+}, {
+  "question": "Postgres dump inserts in order"
+}, {
+  "question": "How do I display solution in GEKKO GUI?"
+}, {
+  "question": "How to remove section header top padding in SwiftUI Plain List with iOS16"
+}, {
+  "question": "Is it possible to validate Auth0 JWTs with Kong without assigning to users"
+}, {
+  "question": "unexpected lines showing only on smartphone browsers"
+}, {
+  "question": "Dynamic typings based on value in object"
+}, {
+  "question": "How can I make a function overloaded for pointers and arrays correctly"
+}, {
+  "question": "How can I generate a new string using the same function? (tkinter, python)"
+}, {
+  "question": "wallet lock and unlock in solidity"
+}, {
+  "question": "How to create a SQL nested queries to get a JSON nested format"
+}, {
+  "question": "How to fix \"sed: illegal option -- r\" error with every command on VS Code?"
+}, {
+  "question": "Pandas how to extract specific strings from dataframe"
+}, {
+  "question": "What is the meaning of \"-\" in getopts template?"
+}, {
+  "question": "How to get distribution on side of graph Plotly, Python?"
+}, {
+  "question": "How to avoid apply compilation flag for third party header"
+}, {
+  "question": "How to make tables appear with desired kableExtra theme on pkgdown website?"
+}, {
+  "question": "Vue 3 computed property and ref not updating page content"
+}, {
+  "question": "go get PRIVATE repo with proxy"
+}, {
+  "question": "GMP detect float exponent overflow when initializing"
+}, {
+  "question": "Could not load information for project X after update codegeneration 6.0.9"
+}, {
+  "question": "Why does this query take over 5 seconds to run?"
+}, {
+  "question": "How to specify date bin ranges for Seaborn displot"
+}, {
+  "question": "How to do an ORDER BY ignoring the diacritical marks (use a collation) in Cypher?"
+}, {
+  "question": "Does lvalue-to-rvalue conversion is applied to non-type lvalue template argument?"
+}, {
+  "question": "Java Pattern Variable Scope"
+}, {
+  "question": "Pandas dataframe - reshaping columns using start and end pairs"
+}, {
+  "question": "Problems mounting a Vercel/Nextjs project as a subdirectory of a different Vercel/Nextjs project"
+}, {
+  "question": "mcr.microsoft.com/dotnet/aspnet:6.0-jammy-chiseled: not found"
+}, {
+  "question": "conduct Wilcoxon-test and t-test by using for loop for all columns at once"
+}, {
+  "question": "What is the python-poetry config file after 1.2.0 release?"
+}, {
+  "question": "Java regular expression find() matching a zero-length string"
+}, {
+  "question": "Why can we inherit `typing.NamedTuple`?"
+}, {
+  "question": "There is two variable \u0027a\u0027 and \u0027b\u0027 which is not initialised. \u0027a\u0027 variable is of class Example1 and \u0027b\u0027 variable of class Main"
+}, {
+  "question": "How to set VSCode as Git Blame \u0026 Git History Viewer?"
+}, {
+  "question": "Failed to compile error during creating PWA with next.js"
+}, {
+  "question": "Openmp fortran, task dependency on overlapping subarrays"
+}, {
+  "question": "What is the point of finally in a try..catch?"
+}, {
+  "question": "Are concepts able to check private non-static data members?"
+}, {
+  "question": "Combine First and Last Names of people based on criteria"
+}, {
+  "question": "When using a Raku grammar, can one limit parsing time?"
+}, {
+  "question": "clang constexpr compile error in lambda, gcc and msvc ok. clang bug?"
+}, {
+  "question": "Get \"self\" of protocol with associated type"
+}, {
+  "question": "sed remove \u0027_ipx/xxx/\u0027 from \"/_ipx/xxx/images/img.webp\""
+}, {
+  "question": "Can\u0027t Assign Game Object from inspector on Unity"
+}, {
+  "question": "Why my TPath SVG is cut in Fit mode using Stroke"
+}, {
+  "question": "Python - pandas: create new columns and transpose depending on column names"
+}, {
+  "question": "Chrome DevTools Network requests payload arrows from JSON objects are out of place"
+}, {
+  "question": "Why do \"throw\" and \"throw ex\" have the same behavior in this case?"
+}, {
+  "question": "Bootstrap class does not seem to have any effect"
+}, {
+  "question": "Unable to call ruby lambda"
+}, {
+  "question": "How can I slice my array if my objects are strings"
+}, {
+  "question": "Log that bottom scroll has been reached"
+}, {
+  "question": "How to rotate entire canvas in react js with react-three-fiber?"
+}, {
+  "question": "Call a derived class\u0027 (non-virtual) function in the base class\u0027 Destructor"
+}, {
+  "question": "Jackson\u0027s ObjectMapper with RowMapper in SQL"
+}, {
+  "question": "How to generate documentation for enum members when generating TypeScript definitions from JavaScript?"
+}, {
+  "question": "What\u0027s the name of all the square brackets?"
+}, {
+  "question": "Task\u003cT\u003e and Nullability"
+}, {
+  "question": "In C++, which Standard Library functions (if any) are required to implicitly provided an atomic memory fence?"
+}, {
+  "question": "Interface vs Types : intersection and union of properties and values"
+}, {
+  "question": "AttributeError: module \u0027rest_framework.serializers\u0027 has no attribute \u0027NullBooleanField\u0027"
+}, {
+  "question": "SwiftUI iOS Widget – Image after some time gets cropped"
+}, {
+  "question": "Network Diagram with Date Axis"
+}, {
+  "question": "How does this monadic function in Haskell work?"
+}, {
+  "question": "Cannot update status field of the custom resource"
+}, {
+  "question": "How to translate device screen position to sendevent position?"
+}, {
+  "question": "division of short returns int c# (short/short\u003dint ?!)"
+}, {
+  "question": "How can I ensure that my Quilt data package displays relevant information by default in the catalog UI view?"
+}, {
+  "question": "TypeScript Generic type for generated function"
+}, {
+  "question": "TypeError: this.postgres.Pool is not a constructor"
+}, {
+  "question": "Extend 2D numpy mask by n cells in all directions, efficiently"
+}, {
+  "question": "Function to compute R^2 value for Generalized Linear Model in Julia"
+}, {
+  "question": "How to create MySQL query that converts rows to columns?"
+}, {
+  "question": "Setting torch.nn.linear() diagonal elements zero"
+}, {
+  "question": "Group similar strings with numbers and keep order of first appearance"
+}, {
+  "question": "Deserialized JSON object not null for wrong type"
+}, {
+  "question": "How to append the Output of a command to temporary file"
+}, {
+  "question": "Parsing time stamps and calculating difference"
+}, {
+  "question": "SIMD Intrinsics difference between Vector\u003cT\u003e, advsimd and sse?"
+}, {
+  "question": "How do you send multiple objects using pickle using socket?"
+}, {
+  "question": "Request multithreading with array"
+}, {
+  "question": "async + axios or just axios, that\u0027s the question"
+}, {
+  "question": "How to search for multiple words of a specific pattern and separator?"
+}, {
+  "question": "N1QL: Couchbase: How to use concat function with mixed typed"
+}, {
+  "question": "How to return enum from property in enum"
+}, {
+  "question": "What is the correct way to obtain explanations for predictions using Shap?"
+}, {
+  "question": "Most recurring value in a specific time window"
+}, {
+  "question": "Inverting a function using sympy and evaluating the inverted function gives me a wrong answer"
+}, {
+  "question": "How to chain two text with ConstraintLayout"
+}, {
+  "question": "How to count distinct over window on months (rather than days)?"
+}, {
+  "question": "Getting specific value for every row from multiple rows"
+}, {
+  "question": "Dynamic dispatch based on Enum value"
+}, {
+  "question": "DBT on Databricks Unity Catalog"
+}, {
+  "question": "Cost of calling `sun.misc.Unsafe` functions in Java?"
+}, {
+  "question": "Concurrent request for API calls"
+}, {
+  "question": "Is the scylladb build hardcoded to work only with gnu gcc?"
+}, {
+  "question": "Duplicate characters when typing in VS 2022 .cs page"
+}, {
+  "question": "The LINQ expression cannot be translated when using null check"
+}, {
+  "question": "Question about special character(μm) for SAP and ABAP"
+}, {
+  "question": "Troubleshoot threadpool starvation under heavy load"
+}, {
+  "question": "Are iocb requests passed to kernel evaluated in order or not?"
+}, {
+  "question": "C# Interface using a child type class"
+}, {
+  "question": "Extract key-value pairs as a tuple from nested json with python"
+}, {
+  "question": "Processing nested lists of items without recursion"
+}, {
+  "question": "How to visualize collaborative activities in an UML activity diagram?"
+}, {
+  "question": "Is automating mutex like this in C++ safe?"
+}, {
+  "question": "How to create watermark text effect in jetpack compose"
+}, {
+  "question": "Javascript `?.` operator: why is `not defined` not treated as `undefined`?"
+}, {
+  "question": "How to change title banner size in Quarto?"
+}, {
+  "question": "What is the best way to find the biggest subset of numbers separated at least by N?"
+}, {
+  "question": "How to make a customized grouped dataframe with multiple aggregations"
+}, {
+  "question": "How to handle ESLint react-hooks \u0027exhaustive-deps\u0027 rule when using i18next?"
+}, {
+  "question": "Why is tsc complaining on this conditional type?"
+}, {
+  "question": "Is there a way to read a template excel file in python including background color formatting?"
+}, {
+  "question": "I get \"Maximum call stack size exceeded\" error when trying to convert current month number to current month name"
+}, {
+  "question": "Boost signal handler - calling default handler"
+}, {
+  "question": "How to merge two data frmaes with no common column names using R"
+}, {
+  "question": "Calendarized cost by year and month in Spark"
+}, {
+  "question": "How to create Kubernetes objects with Status fields?"
+}, {
+  "question": "write a variable that takes a list of functions"
+}, {
+  "question": "Value-initialization of class types"
+}, {
+  "question": "Compressing const wchar_t strings in program memory"
+}, {
+  "question": "HTML Preview Not Working With Quarto-Generated HTML File"
+}, {
+  "question": "How to give project access to a member in a group without adding manually?"
+}, {
+  "question": "React: declaration merging for react-table types doesn\u0027t work. Property doesn\u0027t exist on type \u0027TableInstance\u0027"
+}, {
+  "question": "Large SQL query takes 10 times more memory in PHP than SQL data"
+}, {
+  "question": "Denial of Service (status code 429) when testing sitemap links in Cypress"
+}, {
+  "question": "Combining properties of pcolormesh and imshow"
+}, {
+  "question": "How to Code Outer Product of a Set of Elements in Julia?"
+}, {
+  "question": "Why no line break before `+` but before `.` in Kotlin?"
+}, {
+  "question": "Why does the OrderedDict __dict__ method always return an empty dictionary?"
+}, {
+  "question": "When running Docker, it returns an error when installing PHP8.1"
+}, {
+  "question": "\"error CS0579: Duplicate \u0027global::Android.Runtime.Resource DesignerAttribute\u0027 attribute\" while converting Xamarin project to .net MAUI"
+}, {
+  "question": "Splitting via regex is duplicating arguments NodeJs"
+}, {
+  "question": "Signing for \"GoogleSignIn-GoogleSignIn\" requires a development team"
+}, {
+  "question": "Xcode 14 project compile error：com.apple.xcode.tools.swift.compiler is not absolute"
+}, {
+  "question": "How to do computation with a c function on a numpy array of a non square matrix of size `n` times `m` (n≠m)"
+}, {
+  "question": "why it doesn\u0027t loop through the loop (JavaScript, Class, ShadowDOM, HTML Template tag)"
+}, {
+  "question": "How to get low word and high word from a real?"
+}, {
+  "question": "Customizing Leaflet Map Icons in R"
+}, {
+  "question": "How to animate a div through the left side without loosing its content?"
+}, {
+  "question": "Using Dist::Zilla dist.ini how can I have files that I only use for testing?"
+}, {
+  "question": "react-export-excel how to hide column in excel when exported?"
+}, {
+  "question": "Why does cubical agda choose the particular two component homogeneous path composition operator it does?"
+}, {
+  "question": "How to conditionally sum elements of a list in python?"
+}, {
+  "question": "How to list-initialize an initializer_list from another initializer_list"
+}, {
+  "question": "MongoDB - Update element inside of multiple Arrays"
+}, {
+  "question": "How to restructure nested if else statement"
+}, {
+  "question": "How to filter the name in the console on the basis of city provided in the argument?"
+}, {
+  "question": "Managing 3 Shopify Stores with Github"
+}, {
+  "question": "Calculator using Javascript - Values are not displayed"
+}, {
+  "question": "Summoning instance for opaque type in an object with match type fails"
+}, {
+  "question": "SwiftUI: How to prevent `onSubmit` on TextField from hiding keyboard?"
+}, {
+  "question": "Trying to login into facebook with Powershell 6"
+}, {
+  "question": "Distances between same numbers in list using single for loop"
+}, {
+  "question": "How to link a C library in Rust WASI"
+}, {
+  "question": "Sum of sparse vectors: bug or feature?"
+}, {
+  "question": "mixing unnest_longer and unnest_wider"
+}, {
+  "question": "Initialize flexible array C struct member from Go"
+}, {
+  "question": "Simplify a repetitive pattern using monads"
+}, {
+  "question": "How does Linux use values for PCIDs?"
+}, {
+  "question": "React Native Formik / Yup Array Validation throws no errors"
+}, {
+  "question": "How to detect XSS Reflect with Perl"
+}, {
+  "question": "Python Nested Recursion for multi condition exception handling"
+}, {
+  "question": "React Hooks form showing undefined username in logs"
+}, {
+  "question": "How to get the position of a view in SwiftUI"
+}, {
+  "question": "Is there a difference between \"@MainActor in\" and \"MainActor.run\"?"
+}, {
+  "question": "Generic function argument that accepts functions that implement a macro"
+}, {
+  "question": "Vite library mode vs rollup"
+}, {
+  "question": "implicitly-declared ‘...’ is deprecated [-Wdeprecated-copy] in compiling TinyMT on GitHub"
+}, {
+  "question": "Generate a list of types / interfaces from a mapping"
+}, {
+  "question": "Grouping x-axis labels on multiple lines on a ChartJS with an extra dimension"
+}, {
+  "question": "PyQt5 QGraphicsView drawing resolution"
+}, {
+  "question": "System.Text.Json - Serialize array of third-party Enum to array of strings"
+}, {
+  "question": "Laravel at least one field is valid"
+}, {
+  "question": "How to apply custom halftone to ghostscript conversion of PDF file to bitmap"
+}, {
+  "question": "Vue 3 pattern for input"
+}, {
+  "question": "Wrapping A Line Without Spaces In R-Markdown Output"
+}, {
+  "question": "wrong tsconfig causing \u0027ERR_REQUIRE_ESM` because in index.js tsc compiles imports to use `require()` despite tsconfig \"module\" set to \"node16\""
+}, {
+  "question": "How do I separate text and icon in TextButton"
+}, {
+  "question": "How do I joint iterate over 2 vectors by ref?"
+}, {
+  "question": "How to remove background color from rounded corners"
+}, {
+  "question": "How do I set the customer priceLevel in NetSuite to blank/null?"
+}, {
+  "question": "Different length arrays to one CSV"
+}, {
+  "question": "Strapi admin API on subfolder hitting 404 on JS files behind nginx reverse proxy"
+}, {
+  "question": "How to write SQLite code to show a specified code along with its associated codes from group_concat function?"
+}, {
+  "question": "How can I create an XPath that will look for button text or text from a nested element within the button?"
+}, {
+  "question": "Error in openxlsx::read.xlsx/download.file after updating R to 4.2.1"
+}, {
+  "question": "Leak_DefinitelyLost warning when creating new node in linked list (C)"
+}, {
+  "question": "How to only allow scrolling in SingleChildScrollView with two fingers with dart"
+}, {
+  "question": "How to tell where an asyncio task is waiting?"
+}, {
+  "question": "Lua script , this is a key or index?"
+}, {
+  "question": "In pandas, what would be the idiomatic way to select multiple columns based on different patterns?"
+}, {
+  "question": "Why does ImmutableList cause recomposition in jetpack compose?"
+}, {
+  "question": "Getting Error 500 _____ after setting up Python Flask with cPanel"
+}, {
+  "question": "conditionally import bootstrap file in react"
+}, {
+  "question": "How can i use a json object in golang template"
+}, {
+  "question": "How can I auto-complete python code if i use dynamic type"
+}, {
+  "question": "Convert data in \"grouped\" columns from long to wide / square format pd.DataFrame"
+}, {
+  "question": "Quart discord.py on Heroku : loop attribute cannot be accessed in non-async contexts"
+}, {
+  "question": "ASP.NET Core 6 jQuery Validation not working"
+}, {
+  "question": "How to auto deduct argument and return type of lambda with std::function?"
+}, {
+  "question": "Invalid input syntax when uploading a csv in pgadmin"
+}, {
+  "question": "React prop type based on other prop\u0027s value"
+}, {
+  "question": "How do I get my output for percentage to be two digits?"
+}, {
+  "question": "Unexpected end of input error when configuring with flutterfire"
+}, {
+  "question": "How to edit lines of a text file based on regex conditions?"
+}, {
+  "question": "Cypress multi reporters: using mochawesome with autoset-status-cypress-testrail-reporter"
+}, {
+  "question": "summing up total from specific columns in R"
+}, {
+  "question": "pandas apply function performance optimazation"
+}, {
+  "question": "DCAP and EPID attestation"
+}, {
+  "question": "SASPy Remote Server Connection"
+}, {
+  "question": "TypeScript loses type knowledge inside of callback function (Ex. .filter and .some callback functions)"
+}, {
+  "question": "Perl :: Translate String \"yyyy.mm.dd.hh.mm.ss\" into DateTime object?"
+}, {
+  "question": "SMTP mail with encrypt permission Outlook"
+}, {
+  "question": "What is the difference between npm init vite@latest and npm init vite?"
+}, {
+  "question": "How to move block of text and next nth line following a pattern to end of file?"
+}, {
+  "question": "Type hinting a class decorator that returns a subclass"
+}, {
+  "question": "After upgrade Flutter 3.3.0 RaisedButton showing error: The method \u0027FlatButton\u0027 isn\u0027t defined for the type \u0027CartScreen\u0027. (undefined_method"
+}, {
+  "question": "How can I pass the gitlab job token into a docker build without causing a cache miss?"
+}, {
+  "question": "Create winrate matrix from list of match results in python"
+}, {
+  "question": "how to shrink multiple state function into one in react.js"
+}, {
+  "question": "Using IORef for environment of interpreter [Write yourself a Scheme in 48 hours]"
+}, {
+  "question": "Haskell optics: Setter for several lists"
+}, {
+  "question": "Remove duplicates by rule from a big list"
+}, {
+  "question": "DDD problems with aggregates and transactions"
+}, {
+  "question": "What is the best practice using dp and sp dimensions in Jetpack Compose?"
+}, {
+  "question": "How to pass on dynamic delay to d3.interval"
+}, {
+  "question": "Flink kubernetes deployment - how to provide S3 credentials from Hashicorp Vault?"
+}, {
+  "question": "Sort checkbox(checked and unchecked) in table"
+}, {
+  "question": "how to do this animation on img element"
+}, {
+  "question": "Is it possible to fetch API without useEffect in React JS?"
+}, {
+  "question": "D365FO x++ syscomputedcolumn table name"
+}, {
+  "question": "Uwsgi Locking Up After a Few Requests with Nginx/Traefik/Flask App Running over HTTPS/TLS and Docker"
+}, {
+  "question": "How to implement listen function in react-router-dom v6?"
+}, {
+  "question": "UINavigation bar appearance tint does not work in iOS 16"
+}, {
+  "question": "when is pointer to one past the last element of a memory area valid for pointer arithmetic?"
+}, {
+  "question": "Best way to bind shell output to a struct in Go?"
+}, {
+  "question": "How do I get rid of the error: Tibble columns must have compatible sizes?"
+}, {
+  "question": "Error in Newton\u0027s Method function in Julia (no method matching ^(::Vector{Float64}, ::Int64)"
+}, {
+  "question": "I/chromium: [INFO:CONSOLE(0)] \"Not allowed to load local resource: file:///android_asset/downloader.png\","
+}, {
+  "question": "Regularly spaced numbers between bounds without jot"
+}, {
+  "question": "Using fix to generate Fibonacci numbers recursively - how does this example work?"
+}, {
+  "question": "How to choose the right strategy at runtime when implementing the strategy pattern?"
+}, {
+  "question": "Cannot find module \u0027react\u0027 or its corresponding type declarations"
+}, {
+  "question": "Javascript: Delete a div that contains (3) in a row \u003cBR\u003e\u0027s in it"
+}, {
+  "question": "How to display table data structure based on what users registered"
+}, {
+  "question": "Ckeditor5 error with undoing multiline paste operation"
+}, {
+  "question": "stratified sampling with priors in python"
+}, {
+  "question": "Error while starting the azure databricks cluster"
+}, {
+  "question": "Memory ordering for C++ class that is not modified after sharing across threads"
+}, {
+  "question": "How can I fix path data as circle in svg?"
+}, {
+  "question": "rust library returned Box object is automatically freed in C -- EDIT: not freed"
+}, {
+  "question": "How to dynamically create forms on Delphi"
+}, {
+  "question": "Calculate angle between two vectors in 3d"
+}, {
+  "question": "Does apollo coroutine support performing backgrounds operations on a default IO dispatchers"
+}, {
+  "question": "How to test arguments for a figure or axis object in MATLAB 2022?"
+}, {
+  "question": "Azure DevOps pipeline task `task: gitversion/execute@0` fails with unexpected error \"##[error]SyntaxError: Unexpected end of JSON input\""
+}, {
+  "question": "Arduino Serial Commands work independently, but when combined nothing happens"
+}, {
+  "question": "Is prisma ORM an API?"
+}, {
+  "question": "React build and backend Express.js"
+}, {
+  "question": "Why doesn\u0027t clearing the new iOS 16 SwiftUI NavigationPath to \"pop to root\" animate smoothly back to the root view?"
+}, {
+  "question": "How to style prismjs copy to clipboard button?"
+}, {
+  "question": "NodeJS convert to Byte Array code return different results compare to python"
+}, {
+  "question": "Return TRUE/FALSE if range is within list of ranges R"
+}, {
+  "question": "ODR and \"same sequence of tokens\" and \"typename\" vs \"class\" in type template parameters"
+}, {
+  "question": "Pandas Function to Split multi-line text column into multiple columns"
+}, {
+  "question": "sequence from a specific field of a tuple"
+}, {
+  "question": "How to make a textbox that can limit the user can only write the input from 0000 to FFFF only. c#"
+}, {
+  "question": "With this `didChangeAppLifecycleState` implementation, why am I briefly seeing the previous screen after unlocking the iOS device?"
+}, {
+  "question": "Python Socket only returns Response header instead of HTML"
+}, {
+  "question": "How to format a JavaScript string with replaceAll using regex"
+}, {
+  "question": "Vertex AI model version using Python SDK"
+}, {
+  "question": "Javascript - how can I optimize this script?"
+}, {
+  "question": "Python Imports Keep Failing"
+}, {
+  "question": "Is there any way to improve service availability over the ping test?"
+}, {
+  "question": "Poetry and buildkit mount\u003dtype\u003dcache not working when building over airflow image"
+}, {
+  "question": "Cisco Anyconnect: \"Posture Assessment failed: Unable to load the CSD library\" on Macbook Pro, M1 pro chip"
+}, {
+  "question": "how to extend and type imported class with static method in typescript"
+}, {
+  "question": "VScode: Disable syntax highlighting for a range of lines"
+}, {
+  "question": "Top 10 HashTags in Cypher Query"
+}, {
+  "question": "Convert GraphQLResponse dictionary to python object"
+}, {
+  "question": "Function return type is not assignable to what generics resolve to"
+}, {
+  "question": "Why Build failed after migration to flutter 3.3.0?"
+}, {
+  "question": "Handle multiple lists scroll in same view in swiftUI"
+}, {
+  "question": "No rule to make target \u0027arch/x86/entry/syscalls/syscall_32.tbl\u0027"
+}, {
+  "question": "Why does my SelectorGadget does not select certain nodes while Webscraping with R"
+}, {
+  "question": "Android 12 kiosk mode - NFC stops working after screen timeout"
+}, {
+  "question": "SQL query to iterate over schedule job and delete it. The stored procedure will take Job_Name as Input parameter"
+}, {
+  "question": "Need to find all sets of 2 capital words"
+}, {
+  "question": "Extract content after colon if only one : exists in string"
+}, {
+  "question": "How to optimize vector operations on arrays in Postgres?"
+}, {
+  "question": "SignalR reconnection with custom RetryPolicy does not respect that policy and adds additional delays"
+}, {
+  "question": "How to add a Accordion to your React Project via Material Ui design?"
+}, {
+  "question": "How can i remove error from my flutter project?"
+}, {
+  "question": "Javascript isn\u0027t copying into the clipboard"
+}, {
+  "question": "Although I can change properties of my custom object in methods, I cannot change properties of Vector3 (Unity, C#)"
+}, {
+  "question": "Skip test in Cypress"
+}, {
+  "question": "Can\u0027t write to fd from shm_open on MacOS"
+}, {
+  "question": "python-polars split string column into many columns by delimiter"
+}, {
+  "question": "Run timers in a sequential manner: Reactjs"
+}, {
+  "question": "how to update database with extension db1"
+}, {
+  "question": "How to escape % inside double quotes in cmd?"
+}, {
+  "question": "How can I install Lua on macOS Monterey, without admin powers and terminal access? (I have the vscose Terminal available)"
+}, {
+  "question": "Install python pip modules only for use by Ansible"
+}, {
+  "question": "How can I get a 2D cross-section of a 3D object using a shader?"
+}, {
+  "question": "not able to mock router.push react-testing - **expect(jest.fn()).toHaveBeenCalledWith(...expected)**"
+}, {
+  "question": "Accurate computation of principal branch of the Lambert W function with standard C math library"
+}, {
+  "question": "Register dependency with generic sub-type - For Mediatr"
+}, {
+  "question": "Error (Xcode): Unexpected duplicate tasks: Target \u0027Runner\u0027 has copy command from \u0027path/GoogleService-Info.plist\u0027 to \u0027path/GoogleService-Info.plist"
+}, {
+  "question": "Vector of 2 Different Greek Symbols on Ggplot Grid Label"
+}, {
+  "question": "How to generate a NUL-delimited stream of timestamped filenames with BSD `stat` command"
+}, {
+  "question": "How to get back logcat before dolphin version on android studio?"
+}, {
+  "question": "Change fonts in quarto pdf document"
+}, {
+  "question": "Order a data frame based on a column that points to the next record"
+}, {
+  "question": "Protocol error when calling puppeteer.connect()"
+}, {
+  "question": "Sending a `create` RPC message to SurrealDB returns a \"There was a problem with the database: The table does not exist\" error"
+}, {
+  "question": "Expo run:ios crashes on physical device, works everywhere else"
+}, {
+  "question": "Android Jetpack Compose - Composable Function get recompose each time Text-field value changes"
+}, {
+  "question": "VsCode now is showing main.chunk.js instead on original jsx file in debugging mode"
+}, {
+  "question": "Nextjs error when first run: Error: Cannot find module \u0027caniuse-lite/data/features/css-unicode-bidi\u0027"
+}, {
+  "question": "Why object\u0027s value type doesn\u0027t infer when key returned from function?"
+}, {
+  "question": "How to do an exhaustive switch statement with ambient enum types"
+}, {
+  "question": "How to iterate within a data.table"
+}, {
+  "question": "How to display the content of a specific button after one of three buttons is clicked? All buttons should be hidden after one of them was clicked"
+}, {
+  "question": "Question about grepl in R (string with +)"
+}, {
+  "question": "How to Delete a Directory named as a hadoop command in a VM?"
+}, {
+  "question": "GiLab - is it possible to get job id of the project which was executed 4 days ago through GitLab API"
+}, {
+  "question": "Changes in React source code not reflecting in build"
+}, {
+  "question": "Attempting to change the value in a 2 dimensional array in ruby changes every value, and I don\u0027t know a workaround"
+}, {
+  "question": "Google Drive: Drive.Files.list() not finding file by name"
+}, {
+  "question": "How to solve npm install react-select failure with error : An unknown git error occurred, git@github.com :Permission denied (publickey)"
+}, {
+  "question": "Process columns based on column names in another column"
+}, {
+  "question": "Error with summing columns in R (invalid \u0027type\u0027 (character) of argument)?"
+}, {
+  "question": "Visual Code/CSS go to definition for elements classes not working"
+}, {
+  "question": "Drawing Adjustable Rectangles"
+}, {
+  "question": "Why should I make a copy of a context for goroutines inside handlers?"
+}, {
+  "question": "Typescript literal unions"
+}, {
+  "question": "SQL DB Model: Multiple artists on single song"
+}, {
+  "question": "Generic enum type in php"
+}, {
+  "question": "Flutter Error: Unexpected null value in debug console"
+}, {
+  "question": "Snakemake expand using dictionary values"
+}, {
+  "question": "tar: julia-xxx: Cannot create symlink to xxx: Operation not supported"
+}, {
+  "question": "How to convert SVG file to PNG file with transparency using Delphi"
+}, {
+  "question": "Rolling mean with two column identifiers"
+}, {
+  "question": "Searching for a way to use `linearKEuclid` and corresponding functions of `spatstat`"
+}, {
+  "question": "Is there a way to clean up the information written in a socket stream?"
+}, {
+  "question": "Bad string representation of negative imaginary numbers in Python"
+}, {
+  "question": "Perform Calculation in MongoDb Query"
+}, {
+  "question": "ReactJS: Button Enable disable with change color"
+}, {
+  "question": "Drop rows if there are NaN values in a columns for specific years"
+}, {
+  "question": "Why it is showing only one box in export of processing.org java pdf?"
+}, {
+  "question": "how can i solve the stacking deep learning problem"
+}, {
+  "question": "JupyterLab Kernel Restarts when I load too much data"
+}, {
+  "question": "If \u0026\u0026 condition to update a column in R"
+}, {
+  "question": "I have a PF , how to get the list of programs that is using that particular PF?"
+}, {
+  "question": "SAS Change values of Variables without 3 Data Steps"
+}, {
+  "question": "How to know which parts of an ACSL predicate are failing?"
+}, {
+  "question": "Parse date with \"America/New_York\" like time zones"
+}, {
+  "question": "Phaser3: Shader with microphone input (Web)"
+}, {
+  "question": "Issues with making plugin loader for a java app"
+}, {
+  "question": "How do you convert all numeric strings in a dataframe to numeric in R?"
+}, {
+  "question": "Assigning values of one dynamic array through a loop to another one with changes (VBA)"
+}, {
+  "question": "How to split string based on position in string"
+}, {
+  "question": "How to one-hot encode a table column in DolphinDB?"
+}, {
+  "question": "Slick Slider CSS transition bug with infinite loop"
+}, {
+  "question": "Change the imported libraries of a saved pickle"
+}, {
+  "question": "Conditional cumsum of pandas column"
+}, {
+  "question": "Difference between request.user vs. get_user(request) in Django?"
+}, {
+  "question": "React Navigation RedirectUrl implementation"
+}, {
+  "question": "LINQ query to find elements from a list in a csv file"
+}, {
+  "question": "how to get index value of dynamic div"
+}, {
+  "question": "Swapping Keys Still Introduces Fresh DOM Element"
+}, {
+  "question": "Change cell color if the two values of this cell have opposite signs in Pretty tables in Julia"
+}, {
+  "question": "How do I identify \"simple\" monochome emojis like ☺?"
+}, {
+  "question": "Converting MATLAB \".mat\" matrices to Julia Matrices"
+}, {
+  "question": "How can I control the direction of AnimatedVisibility in compose?"
+}, {
+  "question": "Typescript not doing case analysis correctly"
+}, {
+  "question": "print i Vs. print \"#{i} in Ruby? Is there a difference without adding it to a string?"
+}, {
+  "question": "How to change the font for hyperlinks in RMarkdown?"
+}, {
+  "question": "Custom UserDetailsService is not called by spring-boot"
+}, {
+  "question": "assigning a very big hexadecimal to a char through \\u or \\x"
+}, {
+  "question": "Why should update be preferred over assoc?"
+}, {
+  "question": "bash - commands in variables with pipes"
+}, {
+  "question": "Can chaining be abstracted in cypress?"
+}, {
+  "question": "Ghost Contributor on Github (Github Bug)"
+}, {
+  "question": "How to protect events listened to in SignalR?"
+}, {
+  "question": "Firewall issue - egress from GKE to Cloud Function HTTP Trigger"
+}, {
+  "question": "Vertex AI endpoints - dataset creation after every batch prediction"
+}, {
+  "question": "How to make internals visible to multiple other assemblies in .NET Standard"
+}, {
+  "question": "Use generator in TensorFlow/Keras to fit when the model gets 2 inputs"
+}, {
+  "question": "How to use updateSliderInput to change from point to range slider"
+}, {
+  "question": "How does GADTs affect type inference in this case?"
+}, {
+  "question": "I am getting segmentation error in c when declaring a struct"
+}, {
+  "question": "Function not being called in main function"
+}, {
+  "question": "Remove Files Based On Partial Match In Unix"
+}, {
+  "question": "How do I get the latest full hour minus one hour in C#?"
+}, {
+  "question": "Why is useParams returning undefined even with the correct syntax?"
+}, {
+  "question": "Filtering a dictionary in julia"
+}, {
+  "question": "Why does adding a constraint on a generic type change the inference behavior?"
+}, {
+  "question": "Why does C printf not round up when decimal is 16.125 but will with 16.135"
+}, {
+  "question": "Printing and padding strings with bash/printf"
+}, {
+  "question": "C++: Function call precedence rules for calling functions on objects of derived classes?"
+}, {
+  "question": "Forward-declare typedef struct in c++"
+}, {
+  "question": "Input system not removing default bind after interactive rebind, unity"
+}, {
+  "question": "How to register a UWP app as share recipient for camera snapshot"
+}, {
+  "question": "Regex - Check if multiple patterns apply to string"
+}, {
+  "question": "How to make a query limit 1 linq C# MongoDB (ASP.NET MVC)"
+}, {
+  "question": "C# Unity 3D - Is there a way to make custom raycast shapes?"
+}, {
+  "question": "How can I run user code securely in nodejs using VM without being vulnerable to attacks"
+}, {
+  "question": "Select Groups Where the First Value Equals \"x\" in R"
+}, {
+  "question": "Run private repository with dind in Kubernetes"
+}, {
+  "question": "How to Scaffold Database tables in easy way?"
+}, {
+  "question": "How can I define a color in Color.kt with simple way when I use Jetpack Compose?"
+}, {
+  "question": "Passing set statehook function into subroute component. Destructuring error"
+}, {
+  "question": "JetPack Compose - weight() in Row in Card doesn\u0027t work"
+}, {
+  "question": "In Rails 7 with esbuild build, how do I run a script of esbuild fails?"
+}, {
+  "question": "A problem occurred configuring project \u0027:@volst_react-native-tuya\u0027"
+}, {
+  "question": "iOS 16 keyboard safe area not updated on push"
+}, {
+  "question": "Why can I not convert Foo\u003cT?\u003e to Foo\u003cT\u003e"
+}, {
+  "question": "React + PIXI + Zustand - Stale state in mouse handlers"
+}, {
+  "question": "New Android 12+ MaterialSwitch and androidx.preference"
+}, {
+  "question": "Java Stream GroupBy and Reduce"
+}, {
+  "question": "How to create a chord diagram in r?"
+}, {
+  "question": "How to sum two categories in panel-data using data.table"
+}, {
+  "question": "Possible to read in and analyse multiple shapefiles in loop?"
+}, {
+  "question": "Google Sheets - Query date \u003c doesn\u0027t work"
+}, {
+  "question": "Altair chart save only the data to html that is actually part of the plot"
+}, {
+  "question": "Is there a way to implicitly coerce a type to another wrapper type in haskell?"
+}, {
+  "question": "Azure DNS Zone: What should I do so that my custom DNS will be used instead of the Azure DNS with IP address 168.63.129.16?"
+}, {
+  "question": "best way to generate rows based on other rows in pandas at a big file"
+}, {
+  "question": "How can I create an arrow with color gradient scaled by month using geom_curve?"
+}, {
+  "question": "Is Quarkus reactive client really reactive?"
+}, {
+  "question": "How To Always Hide UISplitViewController Details View Controller"
+}, {
+  "question": "Antd add inital Values to dynamic form from firebase"
+}, {
+  "question": "Does GEKKO have a method to import Global, MV an CV options from JSON?"
+}, {
+  "question": "Value of field \"type\" must be one of (4,) in a Modal using discord.py 2.0"
+}, {
+  "question": "Love2D NewImageFont won\u0027t render"
+}, {
+  "question": "How to use socket globally in hapi js?"
+}, {
+  "question": "Flatten a sequence of sequences into a single sequence (List\u003cstring\u003e from List\u003cObject\u003e contains that List\u003cstring\u003e)"
+}, {
+  "question": "Dobble Cards Prolog"
+}, {
+  "question": "How to keep grid item responsive square and grid container with fixed height?"
+}, {
+  "question": "SwiftUI - FocusState opens keyboard on view state change"
+}, {
+  "question": "Integration test for API that has @Secured"
+}, {
+  "question": "Generate a sequence of records from a base record"
+}, {
+  "question": "python Merge dictionaries"
+}, {
+  "question": "How to create series of date range in INFORMATICA using transformations?"
+}, {
+  "question": "Typescript: Implement Union Type"
+}, {
+  "question": "Gap in MATLAB surface plot"
+}, {
+  "question": "VueJS3 - Get handle to element within for loop"
+}, {
+  "question": "RXJS how to optimize a ForEach in a nested subscribe?"
+}, {
+  "question": "How to match everything before a pattern, until reach another pattern"
+}, {
+  "question": "How to combine multiple device css to one class"
+}, {
+  "question": "Use an alternative key if key missing in pandas merge"
+}, {
+  "question": "Extract 2d ndarray from arbitrarily dimensional ndarray using index arrays"
+}, {
+  "question": "css columns, first column is not in same line as other columns"
+}, {
+  "question": "how can I upsert documents in opensearch by python api"
+}, {
+  "question": "\u0027content_security_policy.extension pages\u0027: Insecure CSP value \"https://google.com\" in directive \u0027script-src\u0027"
+}, {
+  "question": "Ruby range without left border in Array slicing"
+}, {
+  "question": "Catch Exception and respond with custom message without skipping OutputFormatter"
+}, {
+  "question": "What is the best practice for updating property of object instance in Flutter? The instance is nested inside a map in a provider class as shown below"
+}, {
+  "question": "Find closest value in a list over 360 degrees"
+}, {
+  "question": "Pandas forward looking rolling count in groupby to count until last row in group"
+}, {
+  "question": "Python - Breaking out of inner loop from nested loop"
+}, {
+  "question": "How to parse a formula in Pyspark?"
+}, {
+  "question": "Grid of options in CSS with flexible width"
+}, {
+  "question": "Viewing Example functions with `go doc` command?"
+}, {
+  "question": "How to mock a worker for a Jest test?"
+}, {
+  "question": "psql filter rows on an aggregate function"
+}, {
+  "question": "Problems with scoped styles and deep styling in vue 3"
+}, {
+  "question": "Is there an elegant pyspark solution for the following ranking problem?"
+}, {
+  "question": "Sample Standard Deviation in JQ"
+}, {
+  "question": "How can I define a type that maps keys to a generic of that key, e.g. Record\u003cK, SomeGeneric\u003ckey\u003e\u003e?"
+}, {
+  "question": "query to remove everything between 1st and 2nd hypen for string in column"
+}, {
+  "question": "mypy is not evaluating Union[X, Y] from Type[Union[X, Y]] over (cl: Type[T]) -\u003e T function"
+}, {
+  "question": "If there is list of 4 string elements. Several elements are - separated strings. If I want to print just one part of the - separated word"
+}, {
+  "question": "Azure DevOps Pipelines. Unable to Set Timeout on Task Level"
+}, {
+  "question": "Embedded Python in C program seg faults when ran from script in python"
+}, {
+  "question": "Webgl sprite rendering, alpha blending white edges"
+}, {
+  "question": "How to fix api call working in browser but 403 in android studio"
+}, {
+  "question": "Playground string interpolation"
+}, {
+  "question": "how do i save state or status transitions against a unique id in Elasticsearch"
+}, {
+  "question": "regex split: ignore delimiter if followed by short substring"
+}, {
+  "question": "How to regroup element with common values in two columns"
+}, {
+  "question": "PowerShell: How can I output a hashtable as json and store it in a variable using a foreach loop?"
+}, {
+  "question": "Add nested properties to non existent properties using dot notation"
+}, {
+  "question": "Running `sequence` over a conduit"
+}, {
+  "question": "Creating a function that will get multiple shapes from nested array that have coordinates of each shape"
+}, {
+  "question": "Adding same package to Xcode workspace in multiple targets fails"
+}, {
+  "question": "How to trace a path with pixels in Raylib?"
+}, {
+  "question": "Unable to POST request correctly"
+}, {
+  "question": "After jibBuildTar, what command to use to load to AWS ECR?"
+}, {
+  "question": "Cannot assign type which should be compatible when conditional generics are used"
+}, {
+  "question": "Is NaN a comparable type in golang?"
+}, {
+  "question": "Postgres underestimating the number of rows leading to bad query plan"
+}, {
+  "question": "Duplicate rows in dataset and recalculate non-auto-generated index (Python/Pandas)"
+}, {
+  "question": "Change Schema while creating table"
+}, {
+  "question": "Best way to iterate and modify a deque in Python"
+}, {
+  "question": "Groupby remainder of day to show True if identical consecutive values"
+}, {
+  "question": "Validate on submit and on successful validation popup a confirm modal box using Jquery"
+}, {
+  "question": "Woocommerce update Order line items subtotals"
+}, {
+  "question": "How to call RTK mutations after first finishes"
+}, {
+  "question": "private modifier in php doesn\u0027 work like expected"
+}, {
+  "question": "Ordercloud Migration to new Sandbox"
+}, {
+  "question": "How to specify julia project to use different version of JuMP depending on the julia version"
+}, {
+  "question": "Is it possible to automate printing the variable which is null in a NullReferenceException without Visual Studios debugging mode?"
+}, {
+  "question": "Is there a way to safely store the internal state of an SHA256 hash"
+}, {
+  "question": "Is \u0027const T*\u0027 a cv-unqualified type?"
+}, {
+  "question": "What precision is used by std::chrono::system_clock?"
+}, {
+  "question": "Writing dictionary keys to a csv file based on common key and column value"
+}, {
+  "question": "Colors in pillow-generated image viewed in tkinter don\u0027t match colors in saved file"
+}, {
+  "question": "Strings in Structs"
+}, {
+  "question": "unable to make httpclientfactory working from a .net framework 4.7.2 winform project"
+}, {
+  "question": "Why does Base.rsplit not invert the order (compared to Base.split) of the data in Julia?"
+}, {
+  "question": "Count Api return undefinded response"
+}, {
+  "question": "Continued fraction expansion of PI not accurate?"
+}, {
+  "question": "sed with a regex starting with space and containing dash"
+}, {
+  "question": "RegexReplace different output according to compiler"
+}, {
+  "question": "How to use dynamic prop type in Vue 3 script setup using defineprop and interface"
+}, {
+  "question": "detect overlapping values in 2 dataframes"
+}, {
+  "question": "ERROR: Too many arguments: quarto-ext/grouped-tabsets"
+}, {
+  "question": "Swagger UI does not show up in JupyterLab"
+}, {
+  "question": "Can Linux provide an execve user-space callback?"
+}, {
+  "question": "Trigger component render from different component without rendering the whole page"
+}, {
+  "question": "Testing is still success even though assert failed in cypress"
+}, {
+  "question": "Consider defining a bean named \u0027entityManagerFactory\u0027 in your configuration after Update from Spring Boot 2.2.7"
+}, {
+  "question": "Finding the 3 coldest consecutive months"
+}, {
+  "question": "Java 19 compiler issues when trying record patterns in switch expressions"
+}, {
+  "question": "Github markdown render is not equivalent to VS Code"
+}, {
+  "question": "Does Kotlin Coroutines replace AsyncTask?"
+}, {
+  "question": "Can\u0027t narrow the type of an object property even after checking it with a type guard"
+}, {
+  "question": "Question about Java\u0027s BigInteger\u0027s toString"
+}, {
+  "question": "Using a Python dictionary value in a calculation"
+}, {
+  "question": "TypeError: Cannot read properties of undefined when sending an EJS form to Express"
+}, {
+  "question": "How to put number of a particular element in a particular row and column constraints in a matrix?"
+}, {
+  "question": "How to create infinite carousel in Javascript?"
+}, {
+  "question": "Haskell \"parse error in pattern\" when multiplying 2 with x in a given tuple condition"
+}, {
+  "question": "Room auto-migration with rename columns failing (NOT NULL constraint failed, bad generated Migration class)"
+}, {
+  "question": "For detecting text in Google cloud, is there a way to just print the texts once rather than printing them line-by-line?"
+}, {
+  "question": "Regex - grabbing sections with periods 1.1, 1.1.1, etc"
+}, {
+  "question": "Flutter Custom State Management"
+}, {
+  "question": "Get indices of matches with a column in a second data.table"
+}, {
+  "question": "Number of occurrences of digit in numbers from 0 to n"
+}, {
+  "question": "How to read binary files compressed with LZMA natively with Spark"
+}, {
+  "question": "Using R, how does strsplit work on fixed elements with the splitter at the end of the string to split?"
+}, {
+  "question": "In Django, using urlpatterns, how do I match a url-encoded slash character as part of a parameter?"
+}, {
+  "question": "Ignore a test based on environment variable"
+}, {
+  "question": "UICollectionView custom layout header view"
+}, {
+  "question": "stop event propagation for Vaadin Flow buttons"
+}, {
+  "question": "Selenium ChromeDriverManager Webdriver Install not updating through proxy"
+}, {
+  "question": "Python 3.10.7 - ValueError: Exceeds the limit (4300) for integer string conversion"
+}, {
+  "question": "Cummulative difference In R"
+}, {
+  "question": "Unable to remote connect VisualVM to CentOS"
+}, {
+  "question": "Node is not able to connect to Hub, keep sending registration event"
+}, {
+  "question": "React Native: Could not find method isNewArchitectureEnabled() for arguments on project :app"
+}, {
+  "question": "Split string to get all but the last element"
+}, {
+  "question": "iOS 16 changed Bluetooth LE Connection Interval"
+}, {
+  "question": "Firebase Functions onCreate method not working on Firestore after getting the userID"
+}, {
+  "question": "Checkmarx: Improper Exception Handling with Mybatis resultMap in Java"
+}, {
+  "question": "plotting a series of coordinates stored in a 2D array"
+}, {
+  "question": "Remove class from table th"
+}, {
+  "question": "Tkinter - Key bind not responding"
+}, {
+  "question": "Group by dataframe in python and concat strings on multiple columns"
+}, {
+  "question": "Unable to use Nativescript plugins on Svelte native( nativescript-videoplayer)"
+}, {
+  "question": "Type predicates not working in \u0027expanded\u0027 filter function"
+}, {
+  "question": "Alpha blending of black visibly goes through white color"
+}, {
+  "question": "How do I replace a suffix with a prefix across a dataframe in R?"
+}, {
+  "question": "How to exclude a site from caching in Shopware 6?"
+}, {
+  "question": "Is clang-tidy (version 14) right with `bugprone-use-after-move` error on this code?"
+}, {
+  "question": "Optimize VBA Script to Combine and Consolidate"
+}, {
+  "question": "How to clear/reset mocks in Vitest"
+}, {
+  "question": "JBPM History of Task potential Owner"
+}, {
+  "question": "In the javac source code, why does closure(Type) return a non-empty list for non-class/interface types?"
+}, {
+  "question": "Run a kotlin flow once but have it received twice downstream"
+}, {
+  "question": "Conversion from initializer_list\u003cconst char*\u003e to initializer_list\u003cstring\u003e in vector constructor"
+}, {
+  "question": "cross-platform techniques to determine screen dimensions"
+}, {
+  "question": "TypeScript generic\u0027s type inference fails if generic is used as a callback\u0027s argument"
+}, {
+  "question": "Regexp boundary excluding dots, brackets, etc"
+}, {
+  "question": "Input \u0027,\u0027 cannot test two lists"
+}, {
+  "question": "Angular (13) Material - override CSS file doesn\u0027t work"
+}, {
+  "question": "Why is this code getting `Error during running of the command error\u003d\"exec: not started\"`?"
+}, {
+  "question": "Does ECMAScript Regular Expressions match its syntax characters?"
+}, {
+  "question": "How to ensure a new tkinter Toplevel appears on top of all others?"
+}, {
+  "question": "How can I do typed metaprogramming with TypeScript?"
+}, {
+  "question": "Converting between the containers with transparent and non-transparent comparators"
+}, {
+  "question": "List: Find the first index and count the occurrence of a specific list in list of lists"
+}, {
+  "question": "Blazor/WPF: Add input line and select line to forms with button click"
+}, {
+  "question": "Is there a way to easily convert a unordered_map\u003cK, shared_ptr\u003cT\u003e\u003e to unordered_map\u003cK, shared_ptr\u003cconst T\u003e\u003e?"
+}, {
+  "question": "What happens if two components import the same CSS file in React?"
+}, {
+  "question": "Firebase Debugview not showing data for the event on web console"
+}, {
+  "question": "Python-Pandas-Dataframe - Remove only first few numbers from string"
+}, {
+  "question": "The argument type \u0027MaterialPageRoute\u003cdynamic\u003e\u0027 can\u0027t be assigned to the parameter type \u0027String\u0027"
+}, {
+  "question": "How to I use XSLT to edit elements in my XML file?"
+}, {
+  "question": "filter and get rows between the conditions in a dataframe"
+}]
